@@ -1,12 +1,11 @@
 body{
     margin: 0px;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 
 .navbar {
-    background-color: rgb(14, 14, 14);  
+      
     border-radius: 20px;
  }
  
@@ -22,7 +21,7 @@ body{
  .navbar li :hover{
 
  border-radius: 15px;
- background-color: rgb(210, 228, 50);
+ 
  
 
  }
@@ -31,7 +30,7 @@ body{
  }
  .navbar li a{
      padding: 13px 12px;
-     color: rgb(255, 255, 255);
+     color: blue;
      text-decoration: none;
      text-transform: uppercase;
     
