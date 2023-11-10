@@ -5,8 +5,7 @@ body{
 
 
 .navbar {
-      background-color: rgb(14, 14, 14);
-    
+    background-color: rgb(14, 14, 14);  
     border-radius: 20px;
  }
  
@@ -19,7 +18,7 @@ body{
     }
 
  
- .navbar li :hover{
+ .navbar li a:hover{
 
  border-radius: 15px;
  
@@ -36,7 +35,7 @@ body{
     text-transform: uppercase;
  }
 
-.navbar li :hover {
+.navbar li a:hover {
     border-radius: 15px;
     background-color: rgb(210, 228, 50);
 }
